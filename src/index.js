@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // your code here
-  const todoItems = []
+  // your code here\
+
+  const todoItems = [];
 
 function sortItems() {
   return todoItems.sort(function(item1, item2) {
